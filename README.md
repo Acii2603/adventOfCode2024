@@ -13,7 +13,7 @@ This repository contains my solutions for Advent of Code, and I'll be adding my 
 1. **Part One** - Usually a warm-up to get you familiar with the problem.
 2. **Part Two** - Adds a twist to make you think a bit deeper (or tear your hair out, depending on the day). 
 
-I aim for clean, readable code, but hey, some days are trickier than others, so expect a mix of elegant solutions and some "it works, don't ask how" moments! 😂
+I aim for clean, readable code, but hey, some days are trickier than others, so expect a mix of elegant solutions and some "it works, don't ask how" moments!
 
 ## Why I Participate 🎄
 
